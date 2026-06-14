@@ -8,11 +8,11 @@ Aplikasi manajemen produk sederhana dengan fitur CRUD yang dibangun menggunakan 
 
 1. **Clone Repositori & Masuk ke Folder**
    ```bash
-   git clone [ https://github.com/aidahdzfs/technical-test-aksesmu-aidah.git]( https://github.com/aidahdzfs/technical-test-aksesmu-aidah.git)
-   cd NAMA_REPO_ANDA
+   git clone https://github.com/aidahdzfs/technical-test-aksesmu-aidah.git
+   cd technical-test-aksesmu-aidah
 2. **Instal Dependensi PHP & Node.js**
     ```bash
-    composer install**
+    composer install
     npm install
 3. **Setup Enviroment File**
     ```bash
